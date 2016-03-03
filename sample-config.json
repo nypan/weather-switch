@@ -1,0 +1,7 @@
+{
+    "NODE_ENV": "debug",
+    "API_KEY" : "http:",
+    "API_URL" : "xyz",
+    "API_TIME" : "today",
+    "WEMO_DEVICE" : "lampan"
+}
